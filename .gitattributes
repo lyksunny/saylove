@@ -1,2 +1,2 @@
-*.py linguist-language=python
-*.tex linguist-language=python
+*.spec linguist-language=python
+*.ink linguist-language=python
