@@ -1,2 +1,2 @@
 *.spec linguist-language=python
-*.ink linguist-language=python
+*.lnk linguist-language=python
